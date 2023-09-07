@@ -13,8 +13,8 @@ print(f'{device} is ready.')
 '''
 setting up working directory
 '''
-content_path = "/home/jia/Desktop/MSc_Project/m2integrator"
-data_path = "/home/jia/Desktop/MSc_Project/m2integrator/SG-Net-data"
+content_path = "/home/jia/Desktop/MSc_Project/Fed2M"
+data_path = "/home/jia/Desktop/MSc_Project/m2integrator/Fed2M"
 
 
 
