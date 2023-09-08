@@ -1,5 +1,5 @@
 # Federated Multimodal and Multiresolution Graph Integrator (Fed2M)
-Please contact jiajia010616@gmail.com for inquiries. Thanks. 
+Please contact jiaji010616@gmail.com for inquiries. Thanks. 
 
 # Introduction
 This work is accepted at the DGM4MICCAI workshop 2023.
